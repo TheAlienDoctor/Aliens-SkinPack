@@ -2,42 +2,48 @@
   "geometry": "skinpacks/skins.json",
   "skins": [
  {
-      "localization_name": "TheAlienDoctor",
+      "localization_name": "alien:TheAlienDoctor",
       "geometry": "geometry.humanoid.custom",
       "texture": "Alien.png",
       "type": "free"
     },
    {
-      "localization_name": "Hoodie Alien",
+      "localization_name": "alien:HoodieAlien",
       "geometry": "geometry.humanoid.custom",
       "texture": "GreenHoodie.png",
       "type": "free"
     },
    {
-      "localization_name": "Alien Pog",
+      "localization_name": "alien:AlienPog",
       "geometry": "geometry.humanoid.custom",
       "texture": "AlienPog.png",
       "type": "free"
     },
    {
-      "localization_name": "Alien Brute",
+      "localization_name": "alien:AlienBrute",
       "geometry": "geometry.humanoid.custom",
       "texture": "Piglin.png",
       "type": "free"
     },
    {
-      "localization_name": "Business Alien",
+      "localization_name": "alien:BusinessAlien",
       "geometry": "geometry.humanoid.custom",
       "texture": "BusinessAlien.png",
       "type": "free"
     },
+    {
+      "localization_name": "alien:Halloween-2021",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Halloween-2021.png",
+      "type": "free"
+    },
    {
-      "localization_name": "Xmas 2021",
+      "localization_name": "alien:Xmas2021",
       "geometry": "geometry.humanoid.custom",
       "texture": "Xmas-2021.png",
       "type": "free"
     }
   ],
-  "serialize_name": "TheAlienDoctor's Skin Pack",
-  "localization_name": "TheAlienDoctor's Skin Pack"
+  "serialize_name": "§1TheAlienDoctor's §eSkin Pack§4(V1.0.0)§r",
+  "localization_name": "alien:SkinPack"
 }

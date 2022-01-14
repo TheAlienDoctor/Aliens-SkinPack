@@ -1,7 +1,10 @@
-skin.TheAlienDoctor's Skin Pack.TheAlienDoctor=TheAlienDoctor
-skin.TheAlienDoctor's Skin Pack.Hoodie Alien=Hoodie Alien
-skin.TheAlienDoctor's Skin Pack.Alien Pog=Alien Pog
-skin.TheAlienDoctor's Skin Pack.Alien Brute=Alien Brute
-skin.TheAlienDoctor's Skin Pack.Business Alien=Business Alien
-skin.TheAlienDoctor's Skin Pack.Xmas 2021=Xmas 2021
-skinpack.TheAlienDoctor's Skin Pack=TheAlienDoctor's Skin Pack
+# SkinPack name
+skinpack.alien:SkinPack=§1TheAlienDoctor's §eSkin Pack §4(V1.0.0)§r
+# Skins
+skin.alien:SkinPack.alien:TheAlienDoctor=TheAlienDoctor
+skin.alien:SkinPack.alien:HoodieAlien=Hoodie Alien
+skin.alien:SkinPack.alien:AlienPog=Alien Pog
+skin.alien:SkinPack.alien:AlienBrute=Alien Brute
+skin.alien:SkinPack.alien:BusinessAlien=Business Alien
+skin.alien:SkinPack.alien:Halloween2021=Purple Alien (Halloween 2021)
+skin.alien:SkinPack.alien:Xmas2021=Xmas 2021
