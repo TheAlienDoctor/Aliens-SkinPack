@@ -1,0 +1,15 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "§9TheAlienDoctor's §9Skin Pack §9V2",
+        "uuid": "74156edf-f684-43f4-bd07-0a4d049c5533",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "0c57cd1c-77c6-4196-b0f1-11920a8f76f1",
+            "version": [0, 0, 1]
+        }
+    ]
+}

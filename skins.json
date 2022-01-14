@@ -1,0 +1,43 @@
+{
+  "geometry": "skinpacks/skins.json",
+  "skins": [
+ {
+      "localization_name": "TheAlienDoctor",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Alien.png",
+      "type": "free"
+    },
+   {
+      "localization_name": "Hoodie Alien",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "GreenHoodie.png",
+      "type": "free"
+    },
+   {
+      "localization_name": "Alien Pog",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AlienPog.png",
+      "type": "free"
+    },
+   {
+      "localization_name": "Alien Brute",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Piglin.png",
+      "type": "free"
+    },
+   {
+      "localization_name": "Business Alien",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "BusinessAlien.png",
+      "type": "free"
+    },
+   {
+      "localization_name": "Xmas 2021",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Xmas-2021.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "TheAlienDoctor's Skin Pack",
+  "localization_name": "TheAlienDoctor's Skin Pack"
+}
