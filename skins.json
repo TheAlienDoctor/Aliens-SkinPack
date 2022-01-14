@@ -32,7 +32,7 @@
       "type": "free"
     },
     {
-      "localization_name": "alien:Halloween-2021",
+      "localization_name": "alien:Halloween2021",
       "geometry": "geometry.humanoid.custom",
       "texture": "Halloween-2021.png",
       "type": "free"
