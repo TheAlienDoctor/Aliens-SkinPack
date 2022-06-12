@@ -60,8 +60,14 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "BuilderAlien.png",
       "type": "free"
+    },
+    {
+      "localization_name": "alien:Allay",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Allay.png",
+      "type": "free"
     }
   ],
-  "serialize_name": "§1TheAlienDoctor's §eSkin Pack§4(V1.0.0)§r",
+  "serialize_name": "§1TheAlienDoctor's §eSkin Pack §4(V1.0.0)§r",
   "localization_name": "alien:SkinPack"
 }
