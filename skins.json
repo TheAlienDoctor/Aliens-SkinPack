@@ -66,8 +66,14 @@
       "geometry": "geometry.humanoid.customSlim",
       "texture": "Allay.png",
       "type": "free"
+    },
+    {
+      "localization_name": "alien:CancerRibbon",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "AlienCancerRibbon.png",
+      "type": "free"
     }
   ],
-  "serialize_name": "§1TheAlienDoctor's §eSkin Pack §4(V1.0.0)§r",
+  "serialize_name": "§1TheAlienDoctor's §eSkin Pack §4(V1.2.0)§r",
   "localization_name": "alien:SkinPack"
 }
