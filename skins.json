@@ -72,8 +72,20 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "AlienCancerRibbon.png",
       "type": "free"
+    },
+    {
+      "localization_name": "alien:FancySuit",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FancySuit.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "alien:Halloween2022",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Halloween-2022.png",
+      "type": "free"
     }
   ],
-  "serialize_name": "§1TheAlienDoctor's §eSkin Pack §4(V1.2.0)§r",
+  "serialize_name": "§1TheAlienDoctor's §eSkin Pack §4(V1.3.0)§r",
   "localization_name": "alien:SkinPack"
 }
