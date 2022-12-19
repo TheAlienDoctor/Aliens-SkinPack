@@ -84,8 +84,14 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "Halloween-2022.png",
       "type": "free"
-    }
+    },
+    {
+		"localization_name": "alien:Xmas2022",
+		"geometry": "geometry.humanoid.customSlim",
+		"texture": "Xmas-2022.png",
+		"type": "free"
+	  }
   ],
-  "serialize_name": "§1TheAlienDoctor's §eSkin Pack §4(V1.3.0)§r",
+  "serialize_name": "§1§lTheAlienDoctor's§r §eSkin Pack §4(V1.4.0)§r",
   "localization_name": "alien:SkinPack"
 }
