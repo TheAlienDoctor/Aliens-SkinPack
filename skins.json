@@ -1,97 +1,97 @@
 {
-  "geometry": "skinpacks/skins.json",
-  "skins": [
-    {
-      "localization_name": "alien:TheAlienDoctor",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Alien.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "alien:NoShoes",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "AlienNoShoes.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "alien:HoodieAlien",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "GreenHoodie.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "alien:AlienPog",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "AlienPog.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "alien:AlienBrute",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Piglin.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "alien:BusinessAlien",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "BusinessAlien.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "alien:Halloween2021",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Halloween-2021.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "alien:Xmas2021",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Xmas-2021.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "alien:Miner",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "MinerAlien.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "alien:Builder",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "BuilderAlien.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "alien:Allay",
-      "geometry": "geometry.humanoid.customSlim",
-      "texture": "Allay.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "alien:CancerRibbon",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "AlienCancerRibbon.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "alien:FancySuit",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "FancySuit.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "alien:Halloween2022",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Halloween-2022.png",
-      "type": "free"
-    },
-    {
-		"localization_name": "alien:Xmas2022",
-		"geometry": "geometry.humanoid.customSlim",
-		"texture": "Xmas-2022.png",
-		"type": "free"
-	  }
-  ],
-  "serialize_name": "§1§lTheAlienDoctor's§r §eSkin Pack §4(V1.4.0)§r",
-  "localization_name": "alien:SkinPack"
+	"geometry": "skinpacks/skins.json",
+	"skins": [
+		{
+			"localization_name": "alien:TheAlienDoctor",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "Alien.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:NoShoes",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "AlienNoShoes.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:HoodieAlien",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "GreenHoodie.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:AlienPog",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "AlienPog.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:AlienBrute",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "Piglin.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:BusinessAlien",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "BusinessAlien.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:Halloween2021",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "Halloween-2021.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:Xmas2021",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "Xmas-2021.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:Miner",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "MinerAlien.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:Builder",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "BuilderAlien.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:Allay",
+			"geometry": "geometry.humanoid.customSlim",
+			"texture": "Allay.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:CancerRibbon",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "AlienCancerRibbon.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:FancySuit",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "FancySuit.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:Halloween2022",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "Halloween-2022.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:Xmas2022",
+			"geometry": "geometry.humanoid.customSlim",
+			"texture": "Xmas-2022.png",
+			"type": "free"
+		}
+	],
+	"serialize_name": "§1§lAlien's§r §eSkin Pack §4(SP-V1.4.1)§r",
+	"localization_name": "alien:SkinPack"
 }
