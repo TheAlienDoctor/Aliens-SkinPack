@@ -1,7 +1,9 @@
-skinpack.alien:SkinPack=§1§lAlien's§r §eSkin Pack §4(SP-V1.4.1)§r
+skinpack.alien:SkinPack=§1§lAlien's§r §eSkin Pack §4(SP-V1.4.2)§r
 
 skin.alien:SkinPack.alien:TheAlienDoctor=TheAlienDoctor
+skin.alien:SkinPack.alien:Crocs=TheAlienDoctor (Crocs)
 skin.alien:SkinPack.alien:NoShoes=TheAlienDoctor (No Shoes)
+skin.alien:SkinPack.alien:CancerRibbon=TheAlienDoctor (Cancer Ribbon)
 skin.alien:SkinPack.alien:HoodieAlien=Hoodie Alien
 skin.alien:SkinPack.alien:AlienPog=Alien Pog
 skin.alien:SkinPack.alien:AlienBrute=Alien Brute
@@ -11,7 +13,8 @@ skin.alien:SkinPack.alien:Xmas2021=Xmas 2021
 skin.aien:SkinPack.alien:Miner=Miner Alien
 skin.alien:SkinPack.alien:Builder=Builder Alien
 skin.alien:SkinPack.alien:Allay=Allay Alien
-skin.alien:SkinPack.alien:CancerRibbon=Alien (Cancer Ribbon)
 skin.alien:SkinPack.alien:FancySuit=Fancy suit (By Flaw)
 skin.alien:SkinPack.alien:Halloween2022=Grim Reaper Alien (Halloween 2022)
 skin.alien:SkinPack.alien:Halloween2022=Xmas 2022
+skin.alien:SkinPack.alien:Bandit=TheAlienBandit
+skin.alien:SkinPack.alien:BanditCrocs=TheAlienBandit (Crocs)

@@ -8,9 +8,21 @@
 			"type": "free"
 		},
 		{
+			"localization_name": "alien:Crocs",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "AlienCrocs.png",
+			"type": "free"
+		},
+		{
 			"localization_name": "alien:NoShoes",
 			"geometry": "geometry.humanoid.custom",
 			"texture": "AlienNoShoes.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:CancerRibbon",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "AlienCancerRibbon.png",
 			"type": "free"
 		},
 		{
@@ -68,12 +80,6 @@
 			"type": "free"
 		},
 		{
-			"localization_name": "alien:CancerRibbon",
-			"geometry": "geometry.humanoid.custom",
-			"texture": "AlienCancerRibbon.png",
-			"type": "free"
-		},
-		{
 			"localization_name": "alien:FancySuit",
 			"geometry": "geometry.humanoid.custom",
 			"texture": "FancySuit.png",
@@ -90,8 +96,20 @@
 			"geometry": "geometry.humanoid.customSlim",
 			"texture": "Xmas-2022.png",
 			"type": "free"
+		},
+		{
+			"localization_name": "alien:Bandit",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "Bandit.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:Bandit.crocs",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "BanditCrocs.png",
+			"type": "free"
 		}
 	],
-	"serialize_name": "§1§lAlien's§r §eSkin Pack §4(SP-V1.4.1)§r",
+	"serialize_name": "§1§lAlien's§r §eSkin Pack §4(SP-V1.4.2)§r",
 	"localization_name": "alien:SkinPack"
 }
