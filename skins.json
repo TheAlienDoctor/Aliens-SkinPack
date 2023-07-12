@@ -108,8 +108,14 @@
 			"geometry": "geometry.humanoid.custom",
 			"texture": "BanditCrocs.png",
 			"type": "free"
+		},
+		{
+			"localization_name": "alien:Bamboo",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "Bamboo.png",
+			"type": "free"
 		}
 	],
-	"serialize_name": "§1§lAlien's§r §eSkin Pack §4(SP-V1.4.1)§r",
+	"serialize_name": "§1§lAlien's§r §eSkin Pack §4(SP-V1.4.2)§r",
 	"localization_name": "alien:SkinPack"
 }
