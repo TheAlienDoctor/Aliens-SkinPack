@@ -120,8 +120,26 @@
 			"geometry": "geometry.humanoid.custom",
 			"texture": "AlienDerp.png",
 			"type": "free"
+		},
+		{
+			"localization_name": "alien:Inverted",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "Inverted.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:Greyscale",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "Greyscale.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:Backwards",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "Backwards.png",
+			"type": "free"
 		}
 	],
-	"serialize_name": "§1§lAlien's§r §eSkin Pack §4(SP-V1.4.2)§r",
+	"serialize_name": "§1§lAlien's§r §eSkin Pack §4(SP-V1.4.3)§r",
 	"localization_name": "alien:SkinPack"
 }

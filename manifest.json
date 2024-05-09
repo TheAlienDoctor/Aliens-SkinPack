@@ -1,12 +1,12 @@
 {
 	"format_version": 1,
 	"header": {
-		"name": "§1§lAlien's§r §eSkin Pack §4(SP-V1.4.2)§r",
+		"name": "§1§lAlien's§r §eSkin Pack §4(SP-V1.4.3)§r",
 		"uuid": "74156edf-f684-43f4-bd07-0a4d049c5533",
 		"version": [
 			1,
 			4,
-			2
+			3
 		]
 	},
 	"modules": [
@@ -16,7 +16,7 @@
 			"version": [
 				1,
 				4,
-				2
+				3
 			]
 		}
 	],
