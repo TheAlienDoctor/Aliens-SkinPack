@@ -68,9 +68,9 @@
 			"type": "free"
 		},
 		{
-			"localization_name": "alien:Builder",
+			"localization_name": "alien:Construction",
 			"geometry": "geometry.humanoid.custom",
-			"texture": "BuilderAlien.png",
+			"texture": "ConstructionAlien.png",
 			"type": "free"
 		},
 		{
@@ -113,6 +113,12 @@
 			"localization_name": "alien:Bamboo",
 			"geometry": "geometry.humanoid.custom",
 			"texture": "Bamboo.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:Derp",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "AlienDerp.png",
 			"type": "free"
 		}
 	],
