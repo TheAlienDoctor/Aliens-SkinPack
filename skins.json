@@ -26,6 +26,12 @@
 			"type": "free"
 		},
 		{
+			"localization_name": "alien:Sad",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "SadAlien.png",
+			"type": "free"
+		},
+		{
 			"localization_name": "alien:HoodieAlien",
 			"geometry": "geometry.humanoid.custom",
 			"texture": "GreenHoodie.png",
@@ -137,6 +143,18 @@
 			"localization_name": "alien:Backwards",
 			"geometry": "geometry.humanoid.custom",
 			"texture": "Backwards.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:Blue",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "BlueAlien.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alien:Pink",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "PinkAlien.png",
 			"type": "free"
 		}
 	],
